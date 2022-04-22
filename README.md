@@ -2,7 +2,7 @@
 
 ## Context
 
-This dataset contains information about approx 21000 used cars scraped from www.cardekho.com.
+This dataset contains information about approximately 21000 used cars scraped from www.cardekho.com.
 
 ## Content
 
